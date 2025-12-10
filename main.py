@@ -4,8 +4,8 @@ from telethon import TelegramClient
 api_id = 32851401
 api_hash = "b4811a9dbe8ebfafd461005d02b5920e"
 
-source_chat = -1002823119932       # replace with your correct ID
-destination_chat = -1003256969691  # replace with your correct ID
+source_chat = -1003026533592      # replace with your correct ID
+destination_chat = -1003336146695  # replace with your correct ID
 
 session_name = "backup.session"     # YOUR session file
 progress_file = "progress.json"
